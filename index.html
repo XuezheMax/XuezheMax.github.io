@@ -88,6 +88,12 @@ title: Home
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
             {% endif %}
+            {% if paper.bibtex %}
+              <a class="button" href="{{ paper.bibtex | prepend: site.baseurl }}" target="_blank">Bib</a>
+            {% endif %}
+            {% if paper.arXiv %}
+              <a class="button" href="{{ paper.arXiv }}" target="_blank">ArXiv</a>
+            {% endif %}
             {% if paper.slides %}
               <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
             {% endif %}

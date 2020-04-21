@@ -4,6 +4,8 @@ papers:
     authors: "Xuezhe Ma, Chunting Zhou, Eduard Hovy"
     venue: "Proceedings of 7th International Conference on Learning Representations (ICLR 2019)"
     paper_pdf: "/assets/publications/pdfs/mae.pdf"
+    arXiv: "https://arxiv.org/abs/1901.01498"
+    bibtex: "/assets/publications/bibs/mae.txt"
     code: "https://github.com/XuezheMax/mae"
     award: "Oral"
     selected: y
