@@ -76,19 +76,19 @@
             <p>Office: {{ site.data.main_info.office }}</p>
             <p>{{ site.data.main_info.email }}</p>
             <p>
-              <div style="font-size: 24px">
-                <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
-                  <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
-                </span>
+              <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
+                <div style="font-size: 2.0rem;">
+                  <i class="ai ai-google-scholar" aria-hidden="true"></i>
+                </div>
+              </span>
 
-                <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
-                  <i class="fa fa-github fa-lg" aria-hidden="true"></i>
-                </span>
+              <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
+                <i class="fa fa-github" aria-hidden="true"></i>
+              </span>
 
-                <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
-                  <i class="fa fa-twitter fa-lg" aria-hidden="true"></i>
-                </span>
-              </div>
+              <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </span>
             </p>
         </div>
       </div>
