@@ -102,10 +102,12 @@ title: Home
             {% endif %}
           </p>
           <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-
-          </div>
+          <p>
+            <i>{{ paper.venue }}</i>
+            {% if paper.award %}
+              (<b>{{ paper.award }}</b>)
+            {% endif %}
+          </p>
         </div>
       {% endfor %}
     </div>
@@ -133,10 +135,12 @@ title: Home
             {% endif %}
           </p>
           <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-
-          </div>
+          <p>
+            <i>{{ paper.venue }}</i>
+            {% if paper.award %}
+              (<b>{{ paper.award }}</b>)
+            {% endif %}
+          </p>
         </div>
       {% endfor %}
     </div>
@@ -165,10 +169,12 @@ title: Home
             {% endif %}
           </p>
           <p>{{ paper.authors }}</p>
-          <p><i>{{ paper.venue }}</i></p>
-           <div class="paper-buttons">
-
-          </div>
+          <p>
+            <i>{{ paper.venue }}</i>
+            {% if paper.award %}
+              (<b>{{ paper.award }}</b>)
+            {% endif %}
+          </p>
         </div>
       {% endfor %}
     </div>
