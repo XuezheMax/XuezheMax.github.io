@@ -1,6 +1,6 @@
 papers:
   - title: "Decoupling Global and Local Representations from/for Image Generation"
-    authors: "Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard Hovy"
+    authors: "<b>Xuezhe Ma</b>, Xiang Kong, Shanghang Zhang, Eduard Hovy"
     venue: "Preprint"
     paper_pdf: "/assets/publications/pdfs/decoupling.pdf"
     code: "https://github.com/XuezheMax/wolf"
@@ -50,5 +50,27 @@ papers:
     nlp: n
     bio: n
 
+  - title: "Texar: A Modularized, Versatile, and Extensible Toolkit for Text Generation"
+    authors: "Zhiting Hu, Haoran Shi, Bowen Tan, Wentao Wang, Zichao Yang, Tiancheng Zhao, Junxian He, Lianhui Qin, Di Wang, <b>Xuezhe Ma</b>, Zhengzhong Liu, Xiaodan Liang Wangrong Zhu, Devendra Singh Sachan, Eric P. Xing"
+    venue: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)"
+    paper_pdf: "https://www.aclweb.org/anthology/P19-3027.pdf"
+    bibtex: "https://www.aclweb.org/anthology/P19-3027.bib"
+    code: "https://github.com/asyml/texar-pytorch"
+    award: "Best Demo Paper Nomination"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
 
-
+  - title: "An Empirical Investigation of Structured Output Modeling for Graph-based Neural Dependency Parsing"
+    authors: "Zhisong Zhang, <b>Xuezhe Ma</b>, Eduard Hovy"
+    venue: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)"
+    paper_pdf: "https://www.aclweb.org/anthology/P19-1562.pdf"
+    bibtex: "https://www.aclweb.org/anthology/P19-1562.bib"
+    code: "https://github.com/zzsfornlp/zmsp"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
