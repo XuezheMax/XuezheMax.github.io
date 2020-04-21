@@ -112,3 +112,40 @@ papers:
     cv: n
     nlp: y
     bio: n
+
+  - title: "Stack-Pointer Networks for Dependency Parsing"
+    authors: "<b>Xuezhe Ma</b>, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig, Eduard Hovy"
+    venue: "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018)"
+    paper_pdf: "/assets/publications/pdfs/stackptr.pdf"
+    slides: "https://www.aclweb.org/anthology/attachments/P18-1130.Presentation.pdf"
+    arXiv: "https://arxiv.org/abs/1805.01087"
+    bibtex: "/assets/publications/bibs/stackptr.txt"
+    code: "https://github.com/XuezheMax/NeuroNLP2"
+    award: "Oral"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML"
+    authors: "<b>Xuezhe Ma</b>, Pengcheng Yin, Jingzhou Liu, Graham Neubig, Eduard Hovy"
+    venue: "ArXiv Preprint"
+    arXiv: "https://arxiv.org/abs/1705.07136"
+    selected: y
+    rl: y
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Dropout with Expectation-Linear Regularization"
+    authors: "<b>Xuezhe Ma</b>, Yingkai Gao, Zhiting Hu, Yaoliang Yu, Yuntian Deng, Eduard Hovy"
+    venue: "Proceedings of 5th International Conference on Learning Representations (ICLR 2017)"
+    paper_pdf: "/assets/publications/pdfs/dropout.pdf"
+    arXiv: "https://arxiv.org/abs/1609.08017"
+    bibtex: "/assets/publications/bibs/dropout.txt"
+    selected: y
+    rl: y
+    cv: n
+    nlp: n
+    bio: n
