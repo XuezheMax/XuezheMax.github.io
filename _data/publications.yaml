@@ -1,4 +1,40 @@
 papers:
+  - title: "Decoupling Global and Local Representations from/for Image Generation"
+    authors: "Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard Hovy"
+    venue: "Preprint"
+    paper_pdf: "/assets/publications/pdfs/decoupling.pdf"
+    code: "https://github.com/XuezheMax/wolf"
+    selected: y
+    rl: y
+    cv: y
+    nlp: n
+    bio: n
+
+  - title: "MaCow: Masked Convolutional Generative Flow"
+    authors: "Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard Hovy"
+    venue: "Proceddings of Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019)"
+    paper_pdf: "/assets/publications/pdfs/macow.pdf"
+    arXiv: "https://arxiv.org/abs/1902.04208"
+    bibtex: "/assets/publications/bibs/macow.txt"
+    code: "https://github.com/XuezheMax/macow"
+    selected: y
+    rl: n
+    cv: y
+    nlp: n
+    bio: n
+
+  - title: "FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow"
+    authors: "Xuezhe Ma<b>*</b>, Chunting Zhou<b>*</b>, Xian Li, Graham Neubig, Eduard Hovy"
+    venue: "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019)"
+    paper_pdf: "/assets/publications/pdfs/flowseq.pdf"
+    arXiv: "https://arxiv.org/abs/1909.02480"
+    bibtex: "/assets/publications/bibs/flowseq.txt"
+    code: "https://github.com/XuezheMax/flowseq"
+    selected: y
+    rl: y
+    cv: n
+    nlp: y
+    bio: n
 
   - title: "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders"
     authors: "Xuezhe Ma, Chunting Zhou, Eduard Hovy"
@@ -9,7 +45,8 @@ papers:
     code: "https://github.com/XuezheMax/mae"
     award: "Oral"
     selected: y
-    statsml: y
+    rl: y
+    cv: n
     nlp: n
     bio: n
 

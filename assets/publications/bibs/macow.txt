@@ -1,0 +1,7 @@
+@incollection{macow2019,
+title = {MaCow: Masked Convolutional Generative Flow},
+author = {Ma, Xuezhe and Kong, Xiang and Zhang, Shanghang and Hovy, Eduard},
+booktitle = {Advances in Neural Information Processing Systems 33},
+year = {2019},
+publisher = {Curran Associates, Inc.}
+}

@@ -73,7 +73,7 @@ title: Home
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-sel">Selected Papers</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>    
-<!--    <li><div class="button" data-ref="#papers-ML">ML</div></li>-->
+<!--    <li><div class="button" data-ref="#papers-RL">Representation Learning</div></li>-->
 <!--    <li><div class="button" data-ref="#papers-NLP">NLP</div></li>-->
 <!--    <li><div class="button" data-ref="#papers-Bio">Comp Bio</div></li>-->
   </ul>
@@ -159,8 +159,8 @@ title: Home
     
 
     <!-- ML PAPERS -->
-    <div class="tab-pane" id="papers-ML">
-      {% assign ml_papers = site.data.publications.papers | where: "statsml", "y" %}
+    <div class="tab-pane" id="papers-RL">
+      {% assign ml_papers = site.data.publications.papers | where: "rl", "y" %}
       {% for paper in ml_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
