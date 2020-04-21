@@ -11,7 +11,7 @@ papers:
     bio: n
 
   - title: "MaCow: Masked Convolutional Generative Flow"
-    authors: "Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard Hovy"
+    authors: "<b>Xuezhe Ma</b>, Xiang Kong, Shanghang Zhang, Eduard Hovy"
     venue: "Proceddings of Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019)"
     paper_pdf: "/assets/publications/pdfs/macow.pdf"
     arXiv: "https://arxiv.org/abs/1902.04208"
@@ -24,7 +24,7 @@ papers:
     bio: n
 
   - title: "FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow"
-    authors: "Xuezhe Ma<b>*</b>, Chunting Zhou<b>*</b>, Xian Li, Graham Neubig, Eduard Hovy"
+    authors: "<b>Xuezhe Ma</b><b>*</b>, Chunting Zhou<b>*</b>, Xian Li, Graham Neubig, Eduard Hovy"
     venue: "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP 2019)"
     paper_pdf: "/assets/publications/pdfs/flowseq.pdf"
     arXiv: "https://arxiv.org/abs/1909.02480"
@@ -37,7 +37,7 @@ papers:
     bio: n
 
   - title: "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders"
-    authors: "Xuezhe Ma, Chunting Zhou, Eduard Hovy"
+    authors: "<b>Xuezhe Ma</b>, Chunting Zhou, Eduard Hovy"
     venue: "Proceedings of 7th International Conference on Learning Representations (ICLR 2019)"
     paper_pdf: "/assets/publications/pdfs/mae.pdf"
     arXiv: "https://arxiv.org/abs/1901.01498"
@@ -69,7 +69,45 @@ papers:
     paper_pdf: "https://www.aclweb.org/anthology/P19-1562.pdf"
     bibtex: "https://www.aclweb.org/anthology/P19-1562.bib"
     code: "https://github.com/zzsfornlp/zmsp"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Choosing Transfer Languages for Cross-Lingual Learning"
+    authors: "Yu-Hsiang Lin, Chian-Yu Chen, Jean Lee, Zirui Li, Yuyan Zhang, Mengzhou Xia, Shruti Rijhwani, Junxian He, Zhisong Zhang, <b>Xuezhe Ma</b>,  Antonios Anastasopoulos, Patrick Littell, Graham Neubig"
+    venue: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)"
+    paper_pdf: "https://www.aclweb.org/anthology/P19-1301.pdf"
+    bibtex: "https://www.aclweb.org/anthology/P19-1301.bib"
     selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Density Matching for Bilingual Word Embedding"
+    authors: "Chunting Zhou, <b>Xuezhe Ma</b>, Di Wang, Graham Neubig"
+    venue: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)"
+    paper_pdf: "https://www.aclweb.org/anthology/N19-1161.pdf"
+    arXiv: "https://arxiv.org/abs/1904.02343"
+    bibtex: "https://www.aclweb.org/anthology/N19-1161.bib"
+    code: "https://github.com/violet-zct/DeMa-BWE"
+    video: "https://vimeo.com/364706803"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "On Difficulties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing"
+    authors: "Wasi Uddin Ahmad<b>*</b>, Zhisong Zhang<b>*</b>, <b>Xuezhe Ma</b>, Eduard Hovy, Kai-Wei Chang, Nanyun Peng"
+    venue: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)"
+    paper_pdf: "https://www.aclweb.org/anthology/N19-1253.pdf"
+    arXiv: "https://arxiv.org/abs/1811.00570"
+    bibtex: "https://www.aclweb.org/anthology/N19-1253.bib"
+    code: "https://github.com/uclanlp/CrossLingualDepParser"
+    selected: y
     rl: n
     cv: n
     nlp: y
