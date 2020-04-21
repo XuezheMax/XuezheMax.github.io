@@ -149,3 +149,145 @@ papers:
     cv: n
     nlp: n
     bio: n
+
+  - title: "Neural Probabilistic Model for Non-projective MST Parsing"
+    authors: "<b>Xuezhe Ma</b>, Eduard Hovy"
+    venue: "Proceedings of 5th International Joint Conference on Natural Language Processing (IJCNLP 2017)"
+    paper_pdf: "https://www.aclweb.org/anthology/I17-1007.pdf"
+    arXiv: "https://arxiv.org/abs/1701.00874"
+    bibtex: "https://www.aclweb.org/anthology/I17-1007.bib"
+    code: "https://github.com/XuezheMax/NeuroNLP2"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "An Interpretable Knowledge Transfer Model for Knowledge Base Completion"
+    authors: "Qizhe Xie, <b>Xuezhe Ma</b>, Zihang Dai, Eduard Hovy"
+    venue: "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017)"
+    paper_pdf: "https://www.aclweb.org/anthology/P17-1088.pdf"
+    arXiv: "https://arxiv.org/abs/1704.05908"
+    bibtex: "https://www.aclweb.org/anthology/P17-1088.bib"
+    video: "https://vimeo.com/234958563"
+    award: "Oral"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "CMU System for Entity Discovery and Linking at TAC-KBP"
+    authors: "<b>Xuezhe Ma</b> and Nicolas R Fauceglia, Yiu-Chang Lin, Eduard Hovy"
+    paper_pdf: "https://tac.nist.gov/publications/2017/participant.papers/TAC2017.CMUCS_EDL.proceedings.pdf"
+    venue: "Proceedings of Text Analytics Conference (TAC 2017)"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF"
+    authors: "<b>Xuezhe Ma</b>, Eduard Hovy"
+    venue: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)"
+    paper_pdf: "https://www.aclweb.org/anthology/P16-1101.pdf"
+    arXiv: "http://arxiv.org/abs/1603.01354"
+    bibtex: "https://www.aclweb.org/anthology/P16-1101.bib"
+    code: "https://github.com/XuezheMax/NeuroNLP2"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Harnessing Deep Neural Networks with Logic Rules"
+    authors: "Zhiting Hu, <b>Xuezhe Ma</b>, Zhengzhong Liu, Eduard Hovy, Eric P. Xing"
+    venue: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL 2016)"
+    paper_pdf: "https://www.aclweb.org/anthology/P16-1228.pdf"
+    arXiv: "http://arxiv.org/abs/1603.06318"
+    bibtex: "https://www.aclweb.org/anthology/P16-1228.bib"
+    award: "Outstanding Paper Award"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Unsupervised Ranking Model for Entity Coreference Resolution"
+    authors: "Xuezhe Ma, Zhengzhong Liu, Eduard Hovy"
+    venue: "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2016)"
+    paper_pdf: "https://www.aclweb.org/anthology/N16-1116.pdf"
+    arXiv: "https://arxiv.org/abs/1603.04553"
+    bibtex: "https://www.aclweb.org/anthology/N16-1116.bib"
+    award: "Oral"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Efficient Inner-to-outer Greedy Algorithm for Higher-order Labeled Dependency Parsing"
+    authors: "<b>Xuezhe Ma</b>, Eduard Hovy"
+    venue: "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015)"
+    paper_pdf: "https://www.aclweb.org/anthology/D15-1154.pdf"
+    bibtex: "https://www.aclweb.org/anthology/D15-1154.bib"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Word Sense Disambiguation via PropStore and OntoNotes for Event Mention Detection"
+    authors: " Nicolas R Fauceglia, Yiu-Chang Lin, <b>Xuezhe Ma</b> and Eduard Hovy"
+    venue: "Proceedings of the 3rd Workshop on Events: Definition, Detection, Coreference and Representation (NAACL 2015)"
+    paper_pdf: "https://www.aclweb.org/anthology/W15-0802.pdf"
+    bibtex: "https://www.aclweb.org/anthology/W15-0802.bib"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Unsupervised Dependency Parsing with Transferring Distribution via Parallel Guidance and Entropy Regularization"
+    authors: "<b>Xuezhe Ma</b> and Fei Xia"
+    venue: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL 2014)"
+    paper_pdf: "https://www.aclweb.org/anthology/P14-1126.pdf"
+    bibtex: "https://www.aclweb.org/anthology/P14-1126.bib"
+    award: "Oral"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Dependency Parser Adaptation with Subtrees from Auto-Parsed Target Domain Data"
+    authors: "<b>Xuezhe Ma</b> and Fei Xia"
+    venue: "Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL 2013)"
+    paper_pdf: "https://www.aclweb.org/anthology/P13-2104.pdf"
+    bibtex: "https://www.aclweb.org/anthology/P13-2104.bib"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Fourth-Order Dependency Parsing"
+    authors: "<b>Xuezhe Ma</b> and Hai Zhao"
+    venue: "Proceedings of the 24th International Conference on Computational Linguistics (COLING 2012)"
+    paper_pdf: "https://www.aclweb.org/anthology/C12-2077.pdf"
+    bibtex: "https://www.aclweb.org/anthology/C12-2077.bib"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Probabilistic Models for Higher-order Projective Dependency Parsing"
+    authors: "<b>Xuezhe Ma</b> and Hai Zhao"
+    venue: "Technical Report: ArXiv Preprint"
+    arXiv: "http://arxiv.org/abs/1502.04174"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
