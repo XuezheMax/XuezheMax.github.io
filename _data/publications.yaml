@@ -10,10 +10,12 @@ papers:
     nlp: n
     bio: n
 
-  - title: "Decoupling Global and Local Representations from/for Image Generation"
+  - title: "Decoupling Global and Local Representations via Invertible Generative Flows"
     authors: "<b>Xuezhe Ma</b>, Xiang Kong, Shanghang Zhang, Eduard Hovy"
-    venue: "Preprint"
+    venue: "Proceedings of 9th International Conference on Learning Representations (ICLR 2021)"
     paper_pdf: "/assets/publications/pdfs/decoupling.pdf"
+    arXiv: "https://arxiv.org/abs/2004.11820"
+    bibtex: "/assets/publications/bibs/decoupling.txt"
     code: "https://github.com/XuezheMax/wolf"
     selected: y
     rl: y

@@ -1,4 +1,9 @@
 talks:
+  - name: "Invited Talk at (<b>Tencent AI Lab, Seattle</b>)"
+    time: "12/2020"
+    title: "Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization"
+    category: "current"
+
   - name: "Invited Talk at (<b>USC ISI, Duke CS, UMich CSE</b>)"
     time: "3/2020 - 4/2020"
     title: "Towards Structured-Infused and Disentangled Representation Learning"
