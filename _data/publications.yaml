@@ -45,18 +45,6 @@ papers:
     nlp: y
     bio: n
 
-  - title: "DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation"
-    authors: "Sarik Ghazarian, Zixi Liu, Tuhin Chakrabarty, <b>Xuezhe Ma</b>, Aram Galstyan, Nanyun Peng"
-    venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021): Demo"
-    paper_pdf: "https://www.aclweb.org/anthology/2021.naacl-demos.4.pdf"
-    arXiv: "https://arxiv.org/abs/2102.02191"
-    code: "https://github.com/PlusLabNLP/Dialogue_System_Hackathon"
-    selected: y
-    rl: n
-    cv: n
-    nlp: y
-    bio: n
-
   - title: "A Two-Step Approach for Implicit Event Argument Detection"
     authors: "Zhisong Zhang, Xiang Kong, Zhengzhong Liu, <b>Xuezhe Ma</b>, Eduard Hovy"
     venue: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020)"
