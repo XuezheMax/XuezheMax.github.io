@@ -35,7 +35,7 @@ papers:
 
   - title: "DiSCoL: Toward Engaging Dialogue Systems through Conversational Line Guided Response Generation"
     authors: "Sarik Ghazarian, Zixi Liu, Tuhin Chakrabarty, <b>Xuezhe Ma</b>, Aram Galstyan, Nanyun Peng"
-    venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021): Demo"
+    venue: "Proceedings of 2021 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2021): Demo"
     paper_pdf: "https://www.aclweb.org/anthology/2021.naacl-demos.4.pdf"
     arXiv: "https://arxiv.org/abs/2102.02191"
     code: "https://github.com/PlusLabNLP/Dialogue_System_Hackathon"
