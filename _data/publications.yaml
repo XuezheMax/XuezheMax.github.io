@@ -25,7 +25,7 @@ papers:
 
   - title: "COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences"
     authors: "Shikhar Singh, Nuan Wen, Yu Hou, Pegah Alipoormolabashi, Te-Lin Wu, <b>Xuezhe Ma</b>, Nanyun Peng"
-    venue: "Findings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL 2021)"
+    venue: "Findings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)"
     arXiv: "https://arxiv.org/abs/2106.00969"
     selected: y
     rl: n
