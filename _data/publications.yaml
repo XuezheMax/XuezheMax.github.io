@@ -23,6 +23,17 @@ papers:
     nlp: n
     bio: n
 
+  - title: "Examining and Combating Spurious Features under Distribution Shift"
+    authors: Chunting Zhou, "<b>Xuezhe Ma</b>", Paul Michel, Graham Neubig
+    venue: "Proceedings of the 38th International Conference on Machine Learning (ICML 2021)"
+    arXiv: "https://arxiv.org/abs/2106.07171"
+    code: "https://github.com/violet-zct/group-conditional-DRO"
+    selected: y
+    rl: y
+    cv: n
+    nlp: n
+    bio: n
+
   - title: "COM2SENSE: A Commonsense Reasoning Benchmark with Complementary Sentences"
     authors: "Shikhar Singh, Nuan Wen, Yu Hou, Pegah Alipoormolabashi, Te-Lin Wu, <b>Xuezhe Ma</b>, Nanyun Peng"
     venue: "Findings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)"
