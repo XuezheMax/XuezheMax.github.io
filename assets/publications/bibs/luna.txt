@@ -1,0 +1,6 @@
+@incollection{ma2021luna,
+  title = {Luna: Linear Unified Nested Attention},
+  author = {Ma, Xuezhe and Kong, Xiang and Wang, Sinong and Zhou, Chunting and May, Jonathan and Ma, Hao and Hovy, Eduard},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS-2021)},
+  year = {2021}
+}
