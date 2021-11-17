@@ -16,6 +16,7 @@ papers:
     arXiv: "https://arxiv.org/abs/2106.01540"
     bibtex: "/assets/publications/bibs/luna.txt"
     code: "https://github.com/XuezheMax/fairseq-apollo"
+    video: "https://recorder-v3.slideslive.com/?share=51579&s=2fb03541-f589-4da6-820c-ecbf22486187"
     selected: y
     rl: y
     cv: n
@@ -25,7 +26,10 @@ papers:
   - title: "AESOP: Paraphrase Generation with Adaptive Syntactic Control"
     authors: "Jiao Sun, <b>Xuezhe Ma</b><b>*</b>, Nanyun Peng"
     venue: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)"
+    paper_pdf: "https://aclanthology.org/2021.emnlp-main.420.pdf"
     bibtex: "/assets/publications/bibs/aesop.txt"
+    code: "https://github.com/PlusLabNLP/AESOP/"
+    video: "https://underline.io/events/192/posters/8242/poster/37911-aesop-paraphrase-generation-with-adaptive-syntactic-control"
     selected: y
     rl: n
     cv: n
