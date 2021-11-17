@@ -13,6 +13,7 @@ papers:
   - title: "Luna: Linear Unified Nested Attention"
     authors: "<b>Xuezhe Ma</b>, Xiang Kong, Sinong Wang, Chunting Zhou, Jonathan May, Hao Ma, Luke Zettlemoyer"
     venue: "Proceddings of Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021)"
+    paper_pdf: "https://proceedings.neurips.cc/paper/2021/file/14319d9cfc6123106878dc20b94fbaf3-Paper.pdf"
     arXiv: "https://arxiv.org/abs/2106.01540"
     bibtex: "/assets/publications/bibs/luna.txt"
     code: "https://github.com/XuezheMax/fairseq-apollo"
