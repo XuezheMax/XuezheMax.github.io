@@ -10,6 +10,19 @@ papers:
     nlp: n
     bio: n
 
+  - title: "Towards a Unified View of Parameter-Efficient Transfer Learning"
+      authors: "Junxian He<b>*</b>, Chunting Zhou<b>*</b>, <b>Xuezhe Ma</b>, Taylor Berg-Kirkpatrick, Graham Neubig"
+      venue: "Proceedings of the 10th International Conference on Learning Representations (ICLR-2022)"
+      paper_pdf: "https://openreview.net/pdf?id=0RDcd5Axok"
+      arXiv: "https://arxiv.org/abs/2110.04366"
+      bibtex: "/assets/publications/bibs/unified_adapter.txt"
+      code: "https://github.com/jxhe/unify-parameter-efficient-tuning"
+      selected: y
+      rl: y
+      cv: y
+      nlp: n
+      bio: n
+
   - title: "Luna: Linear Unified Nested Attention"
     authors: "<b>Xuezhe Ma</b>, Xiang Kong, Sinong Wang, Chunting Zhou, Jonathan May, Hao Ma, Luke Zettlemoyer"
     venue: "Proceddings of Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021)"
