@@ -51,7 +51,6 @@ papers:
     paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
     arXiv: "https://arxiv.org/abs/2305.11206"
     bibtex: "/assets/publications/bibs/lima.txt"
-    code: "https://github.com/facebookresearch/mega"
     selected: y
     rl: n
     cv: y
@@ -64,6 +63,7 @@ papers:
     paper_pdf: "https://arxiv.org/pdf/2209.10655"
     arXiv: "https://arxiv.org/abs/2209.10655"
     bibtex: "/assets/publications/bibs/iclr2023_mega.txt"
+    code: "https://github.com/facebookresearch/mega"
     selected: y
     rl: n
     cv: y
