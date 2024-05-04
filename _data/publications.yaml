@@ -1,15 +1,15 @@
 papers:
   - title: "Lima: Less is more for alignment"
-      authors: "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy"
-      venue: "Advances in Neural Information Processing Systems (NeurIPS-2023)"
-      paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
-      arXiv: "https://arxiv.org/abs/2305.11206"
-      bibtex: "/assets/publications/bibs/lima.txt"
-      selected: y
-      rl: n
-      cv: y
-      nlp: y
-      bio: n
+    authors: "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy"
+    venue: "Advances in Neural Information Processing Systems (NeurIPS-2023)"
+    paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
+    arXiv: "https://arxiv.org/abs/2305.11206"
+    bibtex: "/assets/publications/bibs/lima.txt"
+    selected: y
+    rl: n
+    cv: y
+    nlp: y
+    bio: n
 
   - title: "Mega: moving average equipped gated attention"
     authors: "<b>Xuezhe Ma</b>, Chunting Zhou, Xiang Kong, Junxian He, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer"
