@@ -1,4 +1,40 @@
 papers:
+  - title: "Lima: Less is more for alignment"
+      authors: "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy"
+      venue: "Advances in Neural Information Processing Systems (NeurIPS-2023)"
+      paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
+      arXiv: "https://arxiv.org/abs/2305.11206"
+      bibtex: "/assets/publications/bibs/lima.txt"
+      selected: y
+      rl: n
+      cv: y
+      nlp: y
+      bio: n
+
+  - title: "Mega: moving average equipped gated attention"
+    authors: "<b>Xuezhe Ma</b>, Chunting Zhou, Xiang Kong, Junxian He, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer"
+    venue: "Proceedings of 11th International Conference on Learning Representations (ICLR 2023)"
+    paper_pdf: "https://arxiv.org/pdf/2209.10655"
+    arXiv: "https://arxiv.org/abs/2209.10655"
+    bibtex: "/assets/publications/bibs/iclr2023_mega.txt"
+    selected: y
+    rl: n
+    cv: y
+    nlp: y
+    bio: n
+
+  - title: "Towards a unified view of parameter-efficient transfer learning"
+    authors: "Junxian He, Chunting Zhou, <b>Xuezhe Ma</b>, Taylor Berg-Kirkpatrick, Graham Neubig"
+    venue: "Proceedings of 10th International Conference on Learning Representations (ICLR 2022)"
+    paper_pdf: "/assets/publications/pdfs/iclr2022_towards.pdf"
+    arXiv: "https://arxiv.org/abs/2110.04366"
+    bibtex: "/assets/publications/bibs/iclr2022_towards.txt"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
   - title: "Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization"
     authors: "<b>Xuezhe Ma</b>"
     venue: "Preprint"
@@ -12,7 +48,7 @@ papers:
 
   - title: "Luna: Linear Unified Nested Attention"
     authors: "<b>Xuezhe Ma</b>, Xiang Kong, Sinong Wang, Chunting Zhou, Jonathan May, Hao Ma, Luke Zettlemoyer"
-    venue: "Proceddings of Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021)"
+    venue: "Advances in Neural Information Processing Systems (NeurIPS-2021)"
     paper_pdf: "https://proceedings.neurips.cc/paper/2021/file/14319d9cfc6123106878dc20b94fbaf3-Paper.pdf"
     arXiv: "https://arxiv.org/abs/2106.01540"
     bibtex: "/assets/publications/bibs/luna.txt"

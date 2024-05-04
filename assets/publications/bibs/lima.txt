@@ -1,0 +1,8 @@
+@inproceedings{zhou2023lima,
+ author = {Zhou, Chunting and Liu, Pengfei and Xu, Puxin and Iyer, Srinivasan and Sun, Jiao and Mao, Yuning and Ma, Xuezhe and Efrat, Avia and Yu, Ping and YU, LILI and Zhang, Susan and Ghosh, Gargi and Lewis, Mike and Zettlemoyer, Luke and Levy, Omer},
+ booktitle = {Advances in Neural Information Processing Systems (NeurIPS-2023)},
+ pages = {55006--55021},
+ title = {LIMA: Less Is More for Alignment},
+ volume = {36},
+ year = {2023}
+}

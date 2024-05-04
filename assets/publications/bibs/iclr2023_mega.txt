@@ -1,0 +1,7 @@
+@inproceedings{ma2023mega,
+  title={Mega: Moving Average Equipped Gated Attention},
+  author={Ma, Xuezhe and Zhou, Chunting and Kong, Xiang and He, Junxian and Gui, Liangke and Neubig, Graham and May, Jonathan and Zettlemoyer, Luke},
+  booktitle={Proceedings of the 11th International Conference on Learning Representations (ICLR-2023)},
+  year={2023},
+  month = {May},
+}
