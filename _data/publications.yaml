@@ -1,4 +1,15 @@
 papers:
+  - title: "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length"
+    authors: "<b>Xuezhe Ma*</b>, Xiaomeng Yang<b>*</b>, Wenhan Xiong, Beidi Chen, Lili Yu, Hao Zhang, Jonathan May, Luke Zettlemoyer, Omer Levy, Chunting Zhou<b>*</b>"
+    venue: "Preprint"
+    arXiv: "https://arxiv.org/abs/2404.08801"
+    code: "https://github.com/XuezheMax/megalodon"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
   - title: "Look-back Decoding for Open-Ended Text Generation"
     authors: "Nan Xu, Chunting Zhou, Asli Celikyilmaz, <b>Xuezhe Ma</b>"
     venue: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
@@ -34,7 +45,7 @@ papers:
     nlp: y
     bio: n
 
-  - title: "Lima: Less is more for alignment"
+  - title: "LIMA: Less is more for alignment"
     authors: "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy"
     venue: "Advances in Neural Information Processing Systems (NeurIPS-2023)"
     paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
