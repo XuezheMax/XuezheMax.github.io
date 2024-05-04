@@ -1,10 +1,46 @@
 papers:
+  - title: "Look-back Decoding for Open-Ended Text Generation"
+    authors: "Nan Xu, Chunting Zhou, Asli Celikyilmaz, <b>Xuezhe Ma</b>"
+    venue: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+    paper_pdf: "https://aclanthology.org/2023.emnlp-main.66.pdf"
+    bibtex: "https://aclanthology.org/2023.emnlp-main.66.bib"
+    award: "Outstanding Paper Award"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Challenges in Context-Aware Neural Machine Translation"
+    authors: "Linghao Jin<b>*</b>, Jacqueline He<b>*</b>, Jonathan May, <b>Xuezhe Ma</b>"
+    venue: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+    paper_pdf: "https://aclanthology.org/2023.emnlp-main.943.pdf"
+    bibtex: "https://aclanthology.org/2023.emnlp-main.943.bib"
+    video: "https://aclanthology.org/2023.emnlp-main.943.mp4"
+    selected: y
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
+  - title: "Evaluating Large Language Models on Controlled Generation Tasks"
+    authors: "Jiao Sun, Yufei Tian, Wangchunshu Zhou, Nan Xu, Qian Hu, Rahul Gupta, John Wieting, Nanyun Peng, <b>Xuezhe Ma</b>"
+    venue: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)"
+    paper_pdf: "https://aclanthology.org/2023.emnlp-main.190.pdf"
+    bibtex: "https://aclanthology.org/2023.emnlp-main.190.bib"
+    selected: n
+    rl: n
+    cv: n
+    nlp: y
+    bio: n
+
   - title: "Lima: Less is more for alignment"
     authors: "Chunting Zhou, Pengfei Liu, Puxin Xu, Srinivasan Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy"
     venue: "Advances in Neural Information Processing Systems (NeurIPS-2023)"
     paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/ac662d74829e4407ce1d126477f4a03a-Paper-Conference.pdf"
     arXiv: "https://arxiv.org/abs/2305.11206"
     bibtex: "/assets/publications/bibs/lima.txt"
+    code: "https://github.com/facebookresearch/mega"
     selected: y
     rl: n
     cv: y
@@ -23,18 +59,6 @@ papers:
     nlp: y
     bio: n
 
-  - title: "Towards a unified view of parameter-efficient transfer learning"
-    authors: "Junxian He, Chunting Zhou, <b>Xuezhe Ma</b>, Taylor Berg-Kirkpatrick, Graham Neubig"
-    venue: "Proceedings of 10th International Conference on Learning Representations (ICLR 2022)"
-    paper_pdf: "/assets/publications/pdfs/iclr2022_towards.pdf"
-    arXiv: "https://arxiv.org/abs/2110.04366"
-    bibtex: "/assets/publications/bibs/iclr2022_towards.txt"
-    selected: y
-    rl: n
-    cv: n
-    nlp: y
-    bio: n
-
   - title: "Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization"
     authors: "<b>Xuezhe Ma</b>"
     venue: "Preprint"
@@ -49,9 +73,9 @@ papers:
   - title: "Towards a Unified View of Parameter-Efficient Transfer Learning"
     authors: "Junxian He<b>*</b>, Chunting Zhou<b>*</b>, <b>Xuezhe Ma</b>, Taylor Berg-Kirkpatrick, Graham Neubig"
     venue: "Proceedings of the 10th International Conference on Learning Representations (ICLR-2022)"
-    paper_pdf: "https://openreview.net/pdf?id=0RDcd5Axok"
+    paper_pdf: "/assets/publications/pdfs/iclr2022_towards.pdf"
     arXiv: "https://arxiv.org/abs/2110.04366"
-    bibtex: "/assets/publications/bibs/unified_adapter.txt"
+    bibtex: "/assets/publications/bibs/iclr2022_towards.txt"
     code: "https://github.com/jxhe/unify-parameter-efficient-tuning"
     selected: y
     rl: y
